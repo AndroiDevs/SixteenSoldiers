@@ -10,5 +10,17 @@
     "coins": 200,
     "price": 2.01,
     "title": "Warrior Guti Pack"
+  },
+  {
+    "id": "coins_300",
+    "coins": 300,
+    "price": 3.01,
+    "title": "Commander Vault"
+  },
+  {
+    "id": "coins_400",
+    "coins": 400,
+    "price": 4.01,
+    "title": "Tactician Cache"
   }
 ]
