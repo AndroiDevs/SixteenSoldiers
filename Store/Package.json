@@ -28,5 +28,11 @@
     "coins": 400,
     "price": 4.01,
     "title": "Tactician Cache"
+  },
+  {
+    "id": "coins_500",
+    "coins": 500,
+    "price": 4.99,
+    "title": "Challenger Stash"
   }
 ]
