@@ -1,3 +1,50 @@
 [
-  { }
+  {
+    "id": "coins_10",
+    "coins": 10,
+    "price": 1.01,
+    "title": "Starter Bead Pack"
+  },
+  {
+    "id": "coins_20",
+    "coins": 20,
+    "price": 2.01,
+    "title": "Warrior Guti Pack"
+  },
+  {
+    "id": "coins_30",
+    "coins": 30,
+    "price": 3.01,
+    "title": "Commander Vault"
+  },
+  {
+    "id": "coins_40",
+    "coins": 40,
+    "price": 4.01,
+    "title": "Tactician Cache"
+  },
+  {
+    "id": "coins_100",
+    "coins": 100,
+    "price": 10.01,
+    "title": "Challenger Stash"
+  },
+  {
+    "id": "coins_200",
+    "coins": 200,
+    "price": 20.02,
+    "title": "General Chest"
+  },
+  {
+    "id": "coins_300",
+    "coins": 300,
+    "price": 30.03,
+    "title": "King's Treasure"
+  },
+  {
+    "id": "coins_400",
+    "coins": 400,
+    "price": 40.04,
+    "title": "Emperor's Palace"
+  }
 ]
