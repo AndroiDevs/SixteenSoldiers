@@ -24,16 +24,40 @@
     "title": "Tactician Cache"
   },
   {
+    "id": "coins_50",
+    "coins": 50,
+    "price": 5.01,
+    "title": "Knight's Coin Pack"
+  },
+  {
+    "id": "coins_80",
+    "coins": 80,
+    "price": 8.01,
+    "title": "Elite Warrior Pack"
+  },
+  {
     "id": "coins_100",
     "coins": 100,
     "price": 10.01,
     "title": "Challenger Stash"
   },
   {
+    "id": "coins_150",
+    "coins": 150,
+    "price": 15.01,
+    "title": "Champion's Treasure"
+  },
+  {
     "id": "coins_200",
     "coins": 200,
     "price": 20.02,
     "title": "General Chest"
+  },
+  {
+    "id": "coins_250",
+    "coins": 250,
+    "price": 25.02,
+    "title": "Royal Coin Chest"
   },
   {
     "id": "coins_300",
@@ -46,5 +70,23 @@
     "coins": 400,
     "price": 40.04,
     "title": "Emperor's Palace"
+  },
+  {
+    "id": "coins_500_1",
+    "coins": 500,
+    "price": 50.05,
+    "title": "Legendary Coin Vault"
+  },
+  {
+    "id": "coins_1500",
+    "coins": 1500,
+    "price": 150.15,
+    "title": "Mythic Treasure Vault"
+  },
+  {
+    "id": "coins_2000",
+    "coins": 2000,
+    "price": 200.20,
+    "title": "Ultimate Emperor's Vault"
   }
 ]
